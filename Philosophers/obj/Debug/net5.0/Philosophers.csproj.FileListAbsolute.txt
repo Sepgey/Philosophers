@@ -1,0 +1,16 @@
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\Philosophers.exe
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\Philosophers.deps.json
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\Philosophers.runtimeconfig.json
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\Philosophers.runtimeconfig.dev.json
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\Philosophers.dll
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\ref\Philosophers.dll
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\bin\Debug\net5.0\Philosophers.pdb
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.csprojAssemblyReference.cache
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.AssemblyInfoInputs.cache
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.AssemblyInfo.cs
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.dll
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\ref\Philosophers.dll
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.pdb
+C:\Users\Sergey\RiderProjects\Philosophers\Philosophers\obj\Debug\net5.0\Philosophers.genruntimeconfig.cache
